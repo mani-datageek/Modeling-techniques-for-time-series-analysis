@@ -1,5 +1,8 @@
 # Time-Series-Methods
 Understanding various models that can be used for time series analysis
+
+## Pre-requisites :  
+scikit-learn and Pandas
 ## Naive Approach
 
 In this forecasting technique, we assume that the next expected point is equal to the last observed point. So we can expect a straight horizontal line as the prediction.
